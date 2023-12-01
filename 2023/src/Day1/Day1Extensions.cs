@@ -2,7 +2,6 @@ namespace AdventOfCode2023.Day1;
 
 using System.Text.RegularExpressions;
 
-
 public static class Day1Extensions 
 {
     private static Dictionary<string, int> stringToInt = new Dictionary<string, int>()
